@@ -24,6 +24,6 @@
   "start_url": "/speedtest",
   "scope": "https://danrotaru.github.io/speedtest/",
   "display": "standalone",
-  "theme_color": "#141525",
-  "background_color": "#141525"
+  "theme_color": "#18191A",
+  "background_color": "#18191A"
 }
