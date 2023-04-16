@@ -20,8 +20,9 @@
       "purpose": "any maskable"
     }
   ],
+  "categories": ["speedtest", "internet"],
   "start_url": "/",
-  "scope": "/",
+  "scope": "https://danrotaru.github.io/speedtest/",
   "display": "standalone",
   "theme_color": "#141525",
   "background_color": "#141525"
